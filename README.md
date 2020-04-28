@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-  Desenvolvido durante a Semana Omnistack 11, o Be The Hero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias à ONGs que precisam de ajuda. Os usuários podem o escolher o caso e entrar em contato com a ONG para ajudar. Na aplicação web as ONGS cadastram os casos e na aplicação mobile os usuários tem acesso aos casos para contribuir.
+  Desenvolvido durante a Semana Omnistack 11, o Be The Hero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias à ONGs que precisam de ajuda. Os usuários podem o escolher o caso e entrar em contato com a ONG para ajudar. Na aplicação web as ONGs cadastram os casos e na aplicação mobile os usuários tem acesso aos casos para contribuir.
 </p>
 
 ## 💻 Tecnologias
@@ -45,8 +45,8 @@
 
 ```
  cd frontend
- npm install
- npm start
+ yarn install
+ yarn start
 ```
 
 ### Mobile
